@@ -1,0 +1,655 @@
+{
+  "timezone": "Europe/Rome",
+  "version": "1.0",
+  "plan_type": "menu_settimanale_tipico",
+  "menu": [
+    {
+      "weekday": "lunedì",
+      "meals": {
+        "pranzo": {
+          "slot_time": "13:00",
+          "item": "Pasta semola 80 g, pollo 120 g, verdure 200 g, EVO 20 g",
+          "components": [
+            {
+              "name": "pasta di semola",
+              "qty_g": 80,
+              "group": "carb"
+            },
+            {
+              "name": "petto di pollo",
+              "qty_g": 120,
+              "group": "protein"
+            },
+            {
+              "name": "verdure fresche (miste)",
+              "qty_g": 200,
+              "group": "veg"
+            },
+            {
+              "name": "olio EVO",
+              "qty_g": 20,
+              "group": "fat"
+            }
+          ],
+          "alts": {
+            "carb": [
+              {
+                "item": "Riso basmati 70 g"
+              },
+              {
+                "item": "Orzo 80 g"
+              },
+              {
+                "item": "Farro 80 g"
+              },
+              {
+                "item": "Quinoa 100 g"
+              },
+              {
+                "item": "Couscous 70 g"
+              },
+              {
+                "item": "Pane integrale 130 g"
+              }
+            ],
+            "protein": [
+              {
+                "item": "Filetti di platessa 210 g"
+              },
+              {
+                "item": "Salmone 170 g"
+              },
+              {
+                "item": "Tofu 150 g"
+              },
+              {
+                "item": "Uova intere 3 (~180 g)"
+              }
+            ],
+            "fat": [
+              {
+                "item": "Mix semi 50 g"
+              },
+              {
+                "item": "Olive 190 g"
+              }
+            ]
+          }
+        },
+        "merenda": {
+          "slot_time": "17:00",
+          "item": "Yogurt greco 0% 100 g + frutta 150 g",
+          "components": [
+            {
+              "name": "yogurt greco 0%",
+              "qty_g": 100,
+              "group": "protein"
+            },
+            {
+              "name": "frutta fresca",
+              "qty_g": 150,
+              "group": "carb"
+            }
+          ],
+          "alts": {
+            "protein": [
+              {
+                "item": "Kefir 270 ml"
+              },
+              {
+                "item": "Fiocchi di latte 90 g"
+              },
+              {
+                "item": "Proteine isolate 10 g"
+              },
+              {
+                "item": "Bresaola 30 g"
+              },
+              {
+                "item": "Fesa di tacchino 60 g"
+              }
+            ],
+            "carb": [
+              {
+                "item": "Crackers 40 g"
+              },
+              {
+                "item": "Pane integrale 50 g"
+              },
+              {
+                "item": "Frutta fresca 200 g"
+              }
+            ]
+          }
+        },
+        "cena": {
+          "slot_time": "20:00",
+          "item": "Pollo 120 g, pane integrale 60 g, verdure 200 g, EVO 20 g",
+          "components": [
+            {
+              "name": "petto di pollo",
+              "qty_g": 120,
+              "group": "protein"
+            },
+            {
+              "name": "pane integrale",
+              "qty_g": 60,
+              "group": "carb"
+            },
+            {
+              "name": "verdure fresche (miste)",
+              "qty_g": 200,
+              "group": "veg"
+            },
+            {
+              "name": "olio EVO",
+              "qty_g": 20,
+              "group": "fat"
+            }
+          ],
+          "alts": {
+            "carb": [
+              {
+                "item": "Pasta semola 50 g"
+              },
+              {
+                "item": "Riso basmati 50 g"
+              },
+              {
+                "item": "Farro 50 g"
+              },
+              {
+                "item": "Quinoa 60 g"
+              },
+              {
+                "item": "Patate bollite 200 g"
+              }
+            ],
+            "protein": [
+              {
+                "item": "Bistecca magra 120 g"
+              },
+              {
+                "item": "Platessa 210 g"
+              },
+              {
+                "item": "Salmone 170 g"
+              },
+              {
+                "item": "Tofu 150 g"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "weekday": "martedì",
+      "meals": {
+        "pranzo": {
+          "slot_time": "13:00",
+          "item": "Riso basmati 70 g, tonno al naturale 200 g, zucchine 200 g, EVO 20 g",
+          "components": [
+            {
+              "name": "riso basmati",
+              "qty_g": 70,
+              "group": "carb"
+            },
+            {
+              "name": "tonno al naturale sgocciolato",
+              "qty_g": 200,
+              "group": "protein"
+            },
+            {
+              "name": "zucchine",
+              "qty_g": 200,
+              "group": "veg"
+            },
+            {
+              "name": "olio EVO",
+              "qty_g": 20,
+              "group": "fat"
+            }
+          ],
+          "alts": {
+            "carb": [
+              {
+                "item": "Orzo 80 g"
+              },
+              {
+                "item": "Farro 80 g"
+              },
+              {
+                "item": "Quinoa 100 g"
+              },
+              {
+                "item": "Couscous 70 g"
+              }
+            ],
+            "protein": [
+              {
+                "item": "Salmone 170 g"
+              },
+              {
+                "item": "Merluzzo 200 g"
+              },
+              {
+                "item": "Tacchino 120 g"
+              },
+              {
+                "item": "Tofu 150 g"
+              }
+            ]
+          }
+        },
+        "merenda": {
+          "slot_time": "17:00",
+          "item": "Yogurt greco 0% 100 g + frutti di bosco 100 g",
+          "components": [
+            {
+              "name": "yogurt greco 0%",
+              "qty_g": 100,
+              "group": "protein"
+            },
+            {
+              "name": "frutti di bosco",
+              "qty_g": 100,
+              "group": "carb"
+            }
+          ]
+        },
+        "cena": {
+          "slot_time": "20:00",
+          "item": "Salmone 170 g, pane integrale 60 g, insalata 200 g, EVO 20 g",
+          "components": [
+            {
+              "name": "salmone",
+              "qty_g": 170,
+              "group": "protein"
+            },
+            {
+              "name": "pane integrale",
+              "qty_g": 60,
+              "group": "carb"
+            },
+            {
+              "name": "insalata mista",
+              "qty_g": 200,
+              "group": "veg"
+            },
+            {
+              "name": "olio EVO",
+              "qty_g": 20,
+              "group": "fat"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "weekday": "mercoledì",
+      "meals": {
+        "pranzo": {
+          "slot_time": "13:00",
+          "item": "Orzo 80 g, pollo 120 g, spinaci 200 g, EVO 20 g",
+          "components": [
+            {
+              "name": "orzo",
+              "qty_g": 80,
+              "group": "carb"
+            },
+            {
+              "name": "petto di pollo",
+              "qty_g": 120,
+              "group": "protein"
+            },
+            {
+              "name": "spinaci",
+              "qty_g": 200,
+              "group": "veg"
+            },
+            {
+              "name": "olio EVO",
+              "qty_g": 20,
+              "group": "fat"
+            }
+          ]
+        },
+        "merenda": {
+          "slot_time": "17:00",
+          "item": "Yogurt greco 0% 100 g + mela piccola",
+          "components": [
+            {
+              "name": "yogurt greco 0%",
+              "qty_g": 100,
+              "group": "protein"
+            },
+            {
+              "name": "mela",
+              "qty_g": 120,
+              "group": "carb"
+            }
+          ]
+        },
+        "cena": {
+          "slot_time": "20:00",
+          "item": "Manzo magro 120 g, pane integrale 60 g, verdure 200 g, EVO 20 g",
+          "components": [
+            {
+              "name": "manzo magro",
+              "qty_g": 120,
+              "group": "protein"
+            },
+            {
+              "name": "pane integrale",
+              "qty_g": 60,
+              "group": "carb"
+            },
+            {
+              "name": "verdure fresche (miste)",
+              "qty_g": 200,
+              "group": "veg"
+            },
+            {
+              "name": "olio EVO",
+              "qty_g": 20,
+              "group": "fat"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "weekday": "giovedì",
+      "meals": {
+        "pranzo": {
+          "slot_time": "13:00",
+          "item": "Couscous 70 g, platessa 210 g, insalata mista 200 g, EVO 20 g",
+          "components": [
+            {
+              "name": "couscous",
+              "qty_g": 70,
+              "group": "carb"
+            },
+            {
+              "name": "platessa",
+              "qty_g": 210,
+              "group": "protein"
+            },
+            {
+              "name": "insalata mista",
+              "qty_g": 200,
+              "group": "veg"
+            },
+            {
+              "name": "olio EVO",
+              "qty_g": 20,
+              "group": "fat"
+            }
+          ]
+        },
+        "merenda": {
+          "slot_time": "17:00",
+          "item": "Yogurt greco 0% 100 g + pera piccola",
+          "components": [
+            {
+              "name": "yogurt greco 0%",
+              "qty_g": 100,
+              "group": "protein"
+            },
+            {
+              "name": "pera",
+              "qty_g": 120,
+              "group": "carb"
+            }
+          ]
+        },
+        "cena": {
+          "slot_time": "20:00",
+          "item": "Uova 3 intere (~180 g), pane integrale 60 g, spinaci 200 g, EVO 20 g",
+          "components": [
+            {
+              "name": "uova intere",
+              "qty_g": 180,
+              "group": "protein"
+            },
+            {
+              "name": "pane integrale",
+              "qty_g": 60,
+              "group": "carb"
+            },
+            {
+              "name": "spinaci",
+              "qty_g": 200,
+              "group": "veg"
+            },
+            {
+              "name": "olio EVO",
+              "qty_g": 20,
+              "group": "fat"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "weekday": "venerdì",
+      "meals": {
+        "pranzo": {
+          "slot_time": "13:00",
+          "item": "Farro 80 g, pollo 120 g, melanzane 200 g, EVO 20 g",
+          "components": [
+            {
+              "name": "farro",
+              "qty_g": 80,
+              "group": "carb"
+            },
+            {
+              "name": "petto di pollo",
+              "qty_g": 120,
+              "group": "protein"
+            },
+            {
+              "name": "melanzane",
+              "qty_g": 200,
+              "group": "veg"
+            },
+            {
+              "name": "olio EVO",
+              "qty_g": 20,
+              "group": "fat"
+            }
+          ]
+        },
+        "merenda": {
+          "slot_time": "17:00",
+          "item": "Yogurt greco 0% 100 g + kiwi",
+          "components": [
+            {
+              "name": "yogurt greco 0%",
+              "qty_g": 100,
+              "group": "protein"
+            },
+            {
+              "name": "kiwi",
+              "qty_g": 100,
+              "group": "carb"
+            }
+          ]
+        },
+        "cena": {
+          "slot_time": "20:00",
+          "item": "Merluzzo 200 g, pane integrale 60 g, zucchine 200 g, EVO 20 g",
+          "components": [
+            {
+              "name": "merluzzo",
+              "qty_g": 200,
+              "group": "protein"
+            },
+            {
+              "name": "pane integrale",
+              "qty_g": 60,
+              "group": "carb"
+            },
+            {
+              "name": "zucchine",
+              "qty_g": 200,
+              "group": "veg"
+            },
+            {
+              "name": "olio EVO",
+              "qty_g": 20,
+              "group": "fat"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "weekday": "sabato",
+      "meals": {
+        "pranzo": {
+          "slot_time": "13:00",
+          "item": "Quinoa 100 g, tacchino 120 g, peperoni 200 g, EVO 20 g",
+          "components": [
+            {
+              "name": "quinoa",
+              "qty_g": 100,
+              "group": "carb"
+            },
+            {
+              "name": "tacchino",
+              "qty_g": 120,
+              "group": "protein"
+            },
+            {
+              "name": "peperoni",
+              "qty_g": 200,
+              "group": "veg"
+            },
+            {
+              "name": "olio EVO",
+              "qty_g": 20,
+              "group": "fat"
+            }
+          ]
+        },
+        "merenda": {
+          "slot_time": "17:00",
+          "item": "Yogurt greco 0% 100 g + frutti di bosco 100 g",
+          "components": [
+            {
+              "name": "yogurt greco 0%",
+              "qty_g": 100,
+              "group": "protein"
+            },
+            {
+              "name": "frutti di bosco",
+              "qty_g": 100,
+              "group": "carb"
+            }
+          ]
+        },
+        "cena": {
+          "slot_time": "20:00",
+          "item": "Salmone 170 g, pane integrale 60 g, insalata 200 g, EVO 20 g",
+          "components": [
+            {
+              "name": "salmone",
+              "qty_g": 170,
+              "group": "protein"
+            },
+            {
+              "name": "pane integrale",
+              "qty_g": 60,
+              "group": "carb"
+            },
+            {
+              "name": "insalata mista",
+              "qty_g": 200,
+              "group": "veg"
+            },
+            {
+              "name": "olio EVO",
+              "qty_g": 20,
+              "group": "fat"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "weekday": "domenica",
+      "meals": {
+        "pranzo": {
+          "slot_time": "13:00",
+          "item": "Pane integrale 130 g, pollo 120 g, verdure 200 g, EVO 20 g",
+          "components": [
+            {
+              "name": "pane integrale",
+              "qty_g": 130,
+              "group": "carb"
+            },
+            {
+              "name": "petto di pollo",
+              "qty_g": 120,
+              "group": "protein"
+            },
+            {
+              "name": "verdure fresche (miste)",
+              "qty_g": 200,
+              "group": "veg"
+            },
+            {
+              "name": "olio EVO",
+              "qty_g": 20,
+              "group": "fat"
+            }
+          ]
+        },
+        "merenda": {
+          "slot_time": "17:00",
+          "item": "Yogurt greco 0% 100 g + mela piccola",
+          "components": [
+            {
+              "name": "yogurt greco 0%",
+              "qty_g": 100,
+              "group": "protein"
+            },
+            {
+              "name": "mela",
+              "qty_g": 120,
+              "group": "carb"
+            }
+          ]
+        },
+        "cena": {
+          "slot_time": "20:00",
+          "item": "Bistecca magra 120 g, pane integrale 60 g, spinaci 200 g, EVO 20 g",
+          "components": [
+            {
+              "name": "bistecca magra",
+              "qty_g": 120,
+              "group": "protein"
+            },
+            {
+              "name": "pane integrale",
+              "qty_g": 60,
+              "group": "carb"
+            },
+            {
+              "name": "spinaci",
+              "qty_g": 200,
+              "group": "veg"
+            },
+            {
+              "name": "olio EVO",
+              "qty_g": 20,
+              "group": "fat"
+            }
+          ]
+        }
+      }
+    }
+  ]
+}
